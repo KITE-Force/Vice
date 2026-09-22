@@ -224,6 +224,7 @@
   {"name": "Left 4 Dead", "matches": ["left4dead.exe", "steam_app_500"]},
   {"name": "Lies of P", "matches": ["LOP-Win64-Shipping.exe", "steam_app_1627720"]},
   {"name": "Like a Dragon: Infinite Wealth", "matches": ["LikeADragon8.exe", "likeadragoninfinitewealth", "steam_app_2072450"]},
+  {"name": "LOCKDOWN Protocol", "matches": ["LockdownProtocol-Win64-Shipping.exe", "LockdownProtocol.exe", "steam_app_2780980"]},
   {"name": "Lords of the Fallen", "matches": ["LOTF2-Win64-Shipping.exe", "lordsofthefallen", "steam_app_1501750"]},
   {"name": "Lost Ark", "matches": ["LostArk.exe", "steam_app_1599340"]},
   {"name": "Luck be a Landlord", "matches": ["Luck be a Landlord.exe", "luckbealandlord", "steam_app_1404850"]},
