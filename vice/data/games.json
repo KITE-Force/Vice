@@ -281,6 +281,7 @@
   {"name": "Resident Evil Village", "matches": ["re8.exe", "residentevilvillage", "steam_app_1196590"]},
   {"name": "Rivals of Aether II", "matches": ["RivalsofAether2.exe", "rivalsofaetherii", "steam_app_2217000"]},
   {"name": "Rogue Legacy 2", "matches": ["RogueLegacy2.exe", "roguelegacy2", "steam_app_1253920"]},
+  {"name": "RuneScape: Dragonwilds", "matches": ["RSDragonwilds-Win64-Shipping.exe", "RSDragonwilds.exe", "steam_app_1374490"]},
   {"name": "Schedule I", "matches": ["Schedule I.exe", "schedulei", "steam_app_3164500"]},
   {"name": "SCUM", "matches": ["SCUM.exe", "steam_app_513710"]},
   {"name": "Sekiro: Shadows Die Twice", "matches": ["sekiro.exe", "sekiroshadowsdietwice", "steam_app_814380"]},
